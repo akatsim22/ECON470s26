@@ -1,0 +1,18 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Generated data / logs
+data/output/
+*.log
+*.tmp
+
+# Quarto build files
+*_files/
+*_cache/
+_freeze
