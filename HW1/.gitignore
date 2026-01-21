@@ -8,6 +8,7 @@
 .vscode/
 
 # Generated data / logs
+data/input/
 data/output/
 *.log
 *.tmp
